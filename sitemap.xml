@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://nfuhs.github.io/posts/newblog/</loc>
-    <lastmod>2022-01-09T22:57:52+01:00</lastmod>
+    <loc>http://nfuhs.github.io/about/</loc>
+    <lastmod>2022-01-10T23:07:20+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://nfuhs.github.io/</loc>
+    <lastmod>2022-01-10T23:07:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nfuhs.github.io/new-blog/</loc>
     <lastmod>2022-01-09T22:57:52+01:00</lastmod>
   </url>
   

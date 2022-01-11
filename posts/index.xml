@@ -12,12 +12,14 @@
     
     
     
+    
+    
     <item>
       <title>New blog</title>
-      <link>http://nfuhs.github.io/posts/newblog/</link>
+      <link>http://nfuhs.github.io/new-blog/</link>
       <pubDate>Sun, 09 Jan 2022 22:57:52 +0100</pubDate>
       
-      <guid>http://nfuhs.github.io/posts/newblog/</guid>
+      <guid>http://nfuhs.github.io/new-blog/</guid>
       <description>&lt;p&gt;I started a new blog using Hugo.&lt;/p&gt;
 &lt;p&gt;Stay tuned for new posts.&lt;/p&gt;
 </description>
